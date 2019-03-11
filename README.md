@@ -1,6 +1,6 @@
-# trip_cost_app
+# Trip cost calculator
 
-A new Flutter project.
+A sample project which predicts your travel cost depending upon the average fuel consumption of vehicle, distance and cost of travel.
 
 ## Getting Started
 

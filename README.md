@@ -4,6 +4,8 @@ A sample project which predicts your travel cost depending upon the average fuel
 
 ## Getting Started
 
+To get started with this application clone application and follow up the commands :
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:

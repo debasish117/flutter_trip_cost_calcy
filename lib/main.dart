@@ -34,7 +34,7 @@ class _FuelFormState extends State<FuelForm> {
     TextStyle textStyle = Theme.of(context).textTheme.title;
     return Scaffold(
       appBar: AppBar(
-        title: Text("Hello"),
+        title: Text("Trip Cost"),
         backgroundColor: Colors.orangeAccent,
       ),
       body: Container(
